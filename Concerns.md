@@ -1,3 +1,5 @@
+# **Architectual Concerns for AI-Powered Digital Assistant Platform (AIDAP)**
+
 | **ID** | **Concern** |
 |---------|-------------|
 | **CRN-1** | The architecture must account for the AI assistant's lack of domain-specific knowledge. Early versions may produce inaccurate and faulty results due to lack of training and collected data (R5, RS5, RM3). |
