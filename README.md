@@ -28,3 +28,15 @@ Artifacts Included in phase 1
 - **System Constraints:** Six technical limitations covering load capacity, uptime, security, and integration.  
 - **Architectural Concerns:** Eight concerns relating to AI accuracy, data privacy, error handling, and maintainability.  
 - **Business Case:** Comprehensive problem statement, proposed solution, stakeholders, scope, expected outcomes, and risks.
+
+
+**Deliverable:** 2 - ADD Iterations 1 & 2
+| Member | Contributions Phase 1 |
+|--------|--------------------------------|
+| Geraline Chavez 100890130 | Iteration 1 steps 1-3,5-7 |
+| Christopher Lui 100912564 | Iteration 2 Steps 1 - 6 (first 2 diagrams) |
+| Nicholas Furtado 100908880 | Iteration 1 Step 4, 5, Iteration 2 steps 6 (3rd diagram & Sequenc diagrams), 7|
+
+Artifcats Included in phase 2
+- ADD Iteration 1
+- ADD Iteration 2
