@@ -28,3 +28,17 @@ Artifacts Included in phase 1
 - **System Constraints:** Six technical limitations covering load capacity, uptime, security, and integration.  
 - **Architectural Concerns:** Eight concerns relating to AI accuracy, data privacy, error handling, and maintainability.  
 - **Business Case:** Comprehensive problem statement, proposed solution, stakeholders, scope, expected outcomes, and risks.
+
+**Deliverable:** 3 - ADD Iterations 3
+| Member | Contributions Phase 3 |
+|--------|--------------------------------|
+| Geraline Chavez 100890130 | ATAM risk assessment |
+| Christopher Lui 100912564 |  Iteration 3 steps 2-5 |
+| Nicholas Furtado 100908880 | Iteration 3 steps 6 -7|
+
+Artifcats Included in phase 3
+- ADD Iteration 3
+- Project assessment - ATAM
+    1. ATAM risk assessment table
+    2. A description of the risks, non-risks, sensitivity, and tradeoffs
+    3. An ATAM utility tree
